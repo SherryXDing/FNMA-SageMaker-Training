@@ -11,8 +11,8 @@ The series will begin with 100 level (beginner) topics and will work through int
 *Lab:* Use SageMaker built-in algorithm to train models, and host them using multi-model endpoint
 
 *Session 3:* Tuesday, August 1st – 11:00 to 1:00 PM
-*Presentation:* SageMaker bring your own script/container to build a model
-*Lab:* SageMaker bring your own script to train and host a model
+*Presentation:* SageMaker BYOS/BYOC to build a model, and BYOM for deployment
+*Lab:* Bring your own model to deploy on SageMaker
 
 *Session 4:* Tuesday, August 8th – 11:00 to 1:00 PM
 *Presentation:* SageMaker Distributed Training Library
