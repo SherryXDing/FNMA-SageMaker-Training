@@ -12,7 +12,7 @@ The series will begin with 100 level (beginner) topics and will work through int
 
 *Session 3:* Tuesday, August 1st – 11:00 to 1:00 PM
 *Presentation:* SageMaker BYOS/BYOC to build a model, and BYOM for deployment
-*Lab:* Bring your own model to deploy on SageMaker
+*Lab:* BYOS to train on SageMaker and BYOM to deploy on SageMaker
 
 *Session 4:* Tuesday, August 8th – 11:00 to 1:00 PM
 *Presentation:* SageMaker Distributed Training Library
